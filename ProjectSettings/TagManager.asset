@@ -42,7 +42,10 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background
+  - name: Backgound
+    uniqueID: 1847720991
+    locked: 0
+  - name: Environment
     uniqueID: 4131140025
     locked: 0
   - name: Default
